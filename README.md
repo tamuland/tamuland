@@ -10,7 +10,7 @@
 
 <h2 align="center">Learning ✍️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,neovim,linux" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,lua,neovim,linux" alt="Skill icons" />
 </p>
 
 <br>
